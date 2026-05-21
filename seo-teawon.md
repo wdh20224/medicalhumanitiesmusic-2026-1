@@ -14,7 +14,7 @@ The Diving Bell and the Butterfly (2007) conveys the protagonist’s “trapped 
 
 YouTube link: [The Diving Bell and the Butterfly - Related music/video](https://youtu.be/-x_rbZ5VwBc?si=N8-YrnmS8L281buc)
 
-<img src="./seo-taewon-image.png" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
+<img src="./seo-taewon-image.PNG" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
 
 ## Related entries
 
@@ -29,7 +29,7 @@ YouTube link: [The Diving Bell and the Butterfly - Related music/video](https://
 
 감상 링크: [〈잠수종과 나비〉 관련 음악/영상](https://youtu.be/-x_rbZ5VwBc?si=N8-YrnmS8L281buc)
 
-<img src="./seo-taewon-image.png" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
+<img src="./seo-taewon-image.PNG" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
 
 ## Related entries
 
