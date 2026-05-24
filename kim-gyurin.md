@@ -1,4 +1,3 @@
-<img width="1402" height="1122" alt="ChatGPT Image 2026년 5월 24일 오전 12_15_51" src="https://github.com/user-attachments/assets/65ed0535-5750-400f-89c7-dcba57493b7a" />---
 Title: Beautiful mind
 Year: 2001
 Genre: Film
