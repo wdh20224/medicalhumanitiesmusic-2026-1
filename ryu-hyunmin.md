@@ -20,4 +20,4 @@ In the film *CODA*, music paradoxically functions as a medium to depict hearing 
 나아가 버클리 음대 오디션 장면에서 루비는 소리 내어 노래를 부르는 동시에 손으로 수어를 함께 구사함으로써 분리되어 있던 두 세계를 치유적으로 통합합니다. 오디션을 마친 후 집으로 돌아와 아버지가 루비의 목에 손을 대고 성대의 미세한 떨림을 통해 딸의 노래를 온몸으로 '듣는' 촉각적 교감의 장면은 의료인문학적으로 매우 중요한 통찰을 제공합니다. 
 이 영화에서 음악은 단순히 '귀로 듣는 청각적 행위'라는 생의학적 정의를 넘어, 진동과 수어, 신체적 현존과 촉각을 통해 감정이 전달될 수 있음을 보여줍니다. 즉, 의학적 관점에서의 청각 장애는 '치료해야 할 신체적 결손'일지라도, 인간 존엄의 관점에서는 서로 다른 세계를 연결하고 소통을 확장하는 가장 강력한 내러티브 언어가 될 수 있음을 증명합니다.
 
-<img src="./ryu-hyunmin.png" alt="Deaf culture, Medical Humanities Music 2026-1, RYU HYUN-MIN" style="width:50%;" />
+<img src="./ryu-hyunmin.png" alt="Deaf culture, Medical Humanities Music 2026-1, RYU HYUN-MIN" style="width:75%;" />
