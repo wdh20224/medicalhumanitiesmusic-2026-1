@@ -7,7 +7,7 @@ ICD: H91.9
 ---
 # L.V.Beethoven Piano Sonata No.29 Hammerklavier in B flat major, Op.106
 
-<img width="150" height="125" alt="17792061667033546470010361114515" src="https://github.com/user-attachments/assets/bb893a01-09c5-4f29-9594-8e16cd38cb20" />
+<img width="150" height="125" alt="A photograph of Beethoven who had lost his hearing" src="https://github.com/user-attachments/assets/bb893a01-09c5-4f29-9594-8e16cd38cb20" />
 
 
 Composed in 1817–1818, [Piano Sonata No. 29 “Hammerklavier”](https://youtu.be/OB6kU36MCB0?si=AzOtFEwdxp04mUWz) takes its subtitle from the German word meaning “keyboard instrument struck by hammers.” It is considered the largest in scale and one of the most technically demanding among Ludwig van Beethoven’s piano sonatas. Written after Beethoven had completely lost his hearing, the work reveals compositional characteristics that differ markedly from his earlier pieces.
