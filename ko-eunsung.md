@@ -17,6 +17,7 @@ audience to view disability not as something to be overcome but as a unique and 
 [Though cheerful, the song carries a story of perseverance.](https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1)
 After being abandoned by his mother as a child, Cho-won ran because he feared she might leave him again and wanted to obey her. Over time, however, he overcame that fear and began to truly enjoy running itself, which gives the song its emotional impact
 
+It will be more helpful to refer to [the contents of other works] (lim-taehyeon.md ), which does not just express disability as negative and difficult.
 
 <img src="./ko-eunsung.png" alt="An illustration depicting happiness felt by an autistic runner." style="width:25%;" />
 
@@ -30,3 +31,5 @@ After being abandoned by his mother as a child, Cho-won ran because he feared sh
 
 [이 노래는 유쾌하지만 인내의 이야기](https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1)
 를 담고 있습니다. 어린 시절 어머니에게 버림받은 조원은 어머니가 다시 자신을 떠날까 봐 두려워하고 순종하고 싶어 뛰었습니다. 하지만 시간이 지나면서 그 두려움을 극복하고 달리기 자체를 진정으로 즐기기 시작했고, 이는 노래에 정서적 영향을 미쳤습니다
+
+장애를 그저 부정적이고 힘든 것으로 표현하지 않고 긍정적으로 표현한 [다른 작품의 내용](lim-taehyeon.md)을 참고하면 이해를 도와줄 것이다.
