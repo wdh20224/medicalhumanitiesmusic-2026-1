@@ -14,6 +14,7 @@ ICD: F20
  
  The music plays a crucial role in expressing Nash’s unstable mental state and the blurred boundary between reality and illusion. The repetitive yet subtly shifting musical patterns symbolize his fluctuating perception between order and chaos, allowing the audience to emotionally and sensorially engage with his experience of the illness. In this way, the music functions not merely as background but as a medium that conveys the subjective experience of schizophrenia.
 For other articles on the same movie, see <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md >.
+
  
 
  # 뷰티풀 마인드
