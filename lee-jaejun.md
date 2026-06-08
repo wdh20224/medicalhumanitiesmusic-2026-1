@@ -2,8 +2,11 @@
 Title: The Soloist
 Year: 2009
 Genre: Film
-Disease: Schizophrenia
+Disease/Disability: Schizophrenia
 ICD: 6A20
+Music: Symphony No. 3 in E-flat major, Op. 55 'Eroica'
+Composer: Ludwig van Beethoven
+Type: Symphony
 ---
 
 # The Soloist
